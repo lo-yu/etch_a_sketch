@@ -1,0 +1,29 @@
+#container {
+    
+    display:flex ;
+    border: solid;
+    height: 650px;
+    width: 650px;
+    flex-Direction: column;
+}
+
+button {
+    padding: 10px 20px;
+    font-weight: bold;
+    font-size: large;
+    border-radius: 15px;
+}
+
+#header {
+    display: flex;
+    justify-content: center;
+}
+
+#body {
+    display: flex;
+    justify-content: center;
+    margin: 80px;
+}
+#box:hover {
+    color:aqua;
+}
