@@ -17,13 +17,13 @@ button {
 #header {
     display: flex;
     justify-content: center;
+    padding: 15px;
 }
 
 #body {
     display: flex;
     justify-content: center;
-    margin: 80px;
-}
-#box:hover {
-    color:aqua;
+    padding: 70px;
+    color:beige;
+    background-color: grey;
 }
